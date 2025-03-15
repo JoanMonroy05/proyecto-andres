@@ -42,7 +42,7 @@ header {
     justify-content: space-between;
     padding: 0 2rem;
 }
-header .logo h1{
+header .logo h2{
     text-transform: uppercase;
     font-size: 2.5rem; 
     font-weight: bold; 
